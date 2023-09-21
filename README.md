@@ -9,6 +9,7 @@ A deep dive into a comprehensive sales dataset to uncover actionable business in
 - [Recommendations](#-recommendations)
 - [Technologies & Tools Used](#-technologies--tools-used)
 - [Conclusion](#-conclusion)
+- [Data Analyst Internship](#-Data-Analyst-Internship)
 
 ## 🚀 Introduction
 The primary goal of this project is to extract valuable insights from a comprehensive sales dataset to guide business decision-making. We seek to uncover hidden patterns, customer purchasing habits, and potential areas for business growth.
@@ -47,3 +48,5 @@ The primary goal of this project is to extract valuable insights from a comprehe
 ## 🎯 Conclusion
 This analysis offers pivotal insights from the sales dataset, which can be leveraged to inform and refine business strategies.
 
+## Data Analyst Internship
+MeriSKILL
